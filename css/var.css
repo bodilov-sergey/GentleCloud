@@ -1,0 +1,25 @@
+:root {
+  --light: #fff;
+  --black: #000;
+  --dark: #333;
+  --transparent-black: #000000bf;
+  --transparent-light: #ffffffbf;
+
+  --body-bg: #fafafa;
+  --body-text: var(--dark);
+
+  --primary: #ddb2ab;
+  --secondary: #a7b4b4;
+  --primary-dark: #cd9086;
+  --secondary-dark: #839595;
+  --primary-light: #f5e4e2;
+  --secondary-light: #d9e9e9;
+
+  --title-color: var(--dark);
+  --title-size: 3rem;
+  --title-weight: 600;
+
+  --subtitle-color: var(--dark);
+  --subtitle-size: 2rem;
+  --subtitle-weight: 600;
+}

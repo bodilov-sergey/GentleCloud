@@ -1,0 +1,17 @@
+.thank {
+  padding: 106px 0 50px;
+}
+.thank__wrapper {
+  text-align: center;
+}
+.thank__title {
+  margin-bottom: 30px;
+}
+.thank__description {
+  font-size: 16px;
+  margin-bottom: 30px;
+}
+.thank__btn {
+  max-width: 300px;
+  margin: 0 auto;
+}

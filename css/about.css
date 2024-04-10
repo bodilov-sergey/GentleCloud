@@ -1,0 +1,37 @@
+.about {
+  background: url(../img/about/about-bg.jpg) 50% 80% / cover no-repeat;
+}
+.about__wrapper {
+  background: var(--transparent-light);
+  padding: 80px 14px;
+}
+.about__title {
+  margin-bottom: 30px;
+}
+.about__description {
+  text-align: center;
+  font-size: 16px;
+  max-width: 900px;
+  margin: 0 auto 50px;
+}
+.about__subtitle {
+  margin-bottom: 30px;
+}
+.about__contacts {
+  display: flex;
+  justify-content: center;
+}
+.about__contact-title {
+  font-weight: bold;
+  font-size: 20px;
+  display: block;
+  margin-bottom: 5px;
+}
+.about__link {
+  margin-bottom: 15px;
+  display: block;
+  transition: text-shadow 0.2s ease;
+}
+.about__link:hover {
+  text-shadow: 0 0 var(--dark);
+}

@@ -1,0 +1,35 @@
+.feedback {
+  padding: 80px 0;
+  background: var(--secondary-light);
+}
+.feedback__title {
+  margin-bottom: 30px;
+}
+.feedback__wrapper {
+  max-width: 600px;
+  display: flex;
+  flex-direction: column;
+  background: var(--secondary);
+  border: solid 1px var(--secondary-dark);
+  padding: 20px;
+  border-radius: 10px;
+  margin: 0 auto 20px;
+}
+.feedback__control {
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+.feedback__policy {
+  font-weight: bold;
+  margin: 0 auto;
+}
+.feedback__checkbox {
+  margin-right: 10px;
+  cursor: pointer;
+}
+.feedback__link {
+  text-decoration: underline;
+}
+.feedback__btn {
+  margin: 0 auto;
+}
